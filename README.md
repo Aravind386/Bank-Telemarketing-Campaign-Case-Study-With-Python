@@ -173,49 +173,6 @@ After cleaning, the dataset contained **19,961 records with no missing values**.
 
 *These are descriptive findings from the supplied dataset. They show associations, not proof that a particular characteristic causes a customer to subscribe. The dataset is synthetic, so results should not be treated as actual bank customer behaviour.*
 
-## 📌 Business Recommendations
-
-- Prioritize customer segments based on measured subscription rates, while monitoring the size of each segment.
-- Use account balance and customer characteristics to develop hypotheses for further campaign testing.
-- Evaluate campaign contact frequency to avoid unnecessary repeated calls.
-- Compare campaign outcomes across contact methods and previous campaign results.
-- Track subscription rates alongside the number of customers contacted to avoid relying on percentages alone.
-- Validate proposed targeting strategies through controlled experiments before using them in real campaigns.
-
-## 🚀 Project Workflow
-
-1. Load the dataset into Google Colab.
-2. Import the required Python libraries.
-3. Inspect the dataset and understand its structure.
-4. Check missing values, duplicate rows, and unique customer IDs.
-5. Clean missing values and prepare the data.
-6. Analyse the target variable and calculate subscription rates.
-7. Perform demographic, financial, and campaign analysis.
-8. Create visualizations using Matplotlib and Seaborn.
-9. Interpret findings and develop business recommendations.
-
-## 💼 Skills Demonstrated
-
-- Python programming for data analysis
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Missing-value treatment
-- Data aggregation and group-based analysis
-- Customer segmentation
-- Statistical summaries and percentage calculations
-- Data visualization
-- Business insight generation
-- Analytical problem-solving
-
-## 📚 Key Learnings
-
-- Understanding how to prepare a dataset for analysis.
-- Calculating subscription rates across different customer segments.
-- Using Pandas `groupby()` for comparative analysis.
-- Visualizing categorical and numerical data.
-- Interpreting customer and campaign trends.
-- Translating analytical findings into practical recommendations.
-
 ## 👨‍💻 Author
 
 **Aravind K**  
